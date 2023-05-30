@@ -1,0 +1,3 @@
+
+do or do not, there is no try. -> No try there is, do or do not.
+>>>>>>> 4e62336 (modify contain from yoda text file)
